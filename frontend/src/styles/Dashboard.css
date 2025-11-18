@@ -1,0 +1,24 @@
+.dashboard-container {
+  display: flex;
+}
+
+.content {
+  margin-left: 260px;
+  padding: 40px;
+  color: white;
+}
+
+.cards {
+  display: flex;
+  gap: 25px;
+  margin-top: 30px;
+}
+
+.card {
+  background-color: #1f2937;
+  padding: 20px;
+  width: 200px;
+  border-radius: 10px;
+  text-align: center;
+  color: #93c5fd;
+}
